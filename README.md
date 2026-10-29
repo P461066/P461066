@@ -13,7 +13,7 @@
 🔭 &nbsp;I'm currently working on **Building beginner Python scripts and setting up my Linux environment**  
 🌱 &nbsp;I'm currently learning **Python , Linux command line and EE principles**  
 👯 &nbsp;I'm looking to collaborate on **Beginner friendly Python projects and simple open source scripts**  
-💬 &nbsp;Ask me about **Basic Python, switching to Linux and Electeical engineering coursework**  
+💬 &nbsp;Ask me about **Basic Python, switching to Linux and Electrical engineering coursework**  
 😄 &nbsp;Pronouns: **HE/HIM**  
 ⚡ &nbsp;Fun fact: **I spend as much time tweaking my Linux terminal as i do studying circuits**
 
